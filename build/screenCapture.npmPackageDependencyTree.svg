@@ -1,0 +1,58 @@
+<svg height="878" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="878" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">├── UNMET PEER DEPENDENCY grunt@~0.4.1</tspan>
+<tspan x="10" y="42">└─┬ grunt-html-validation@0.1.18 </tspan>
+<tspan x="10" y="58">  ├── colors@0.6.2 </tspan>
+<tspan x="10" y="74">  ├─┬ request@2.34.0 </tspan>
+<tspan x="10" y="90">  │ ├── aws-sign2@0.5.0 </tspan>
+<tspan x="10" y="106">  │ ├── forever-agent@0.5.2 </tspan>
+<tspan x="10" y="122">  │ ├─┬ form-data@0.1.4 </tspan>
+<tspan x="10" y="138">  │ │ ├── async@0.9.2 </tspan>
+<tspan x="10" y="154">  │ │ └─┬ combined-stream@0.0.7 </tspan>
+<tspan x="10" y="170">  │ │   └── delayed-stream@0.0.5 </tspan>
+<tspan x="10" y="186">  │ ├─┬ hawk@1.0.0 </tspan>
+<tspan x="10" y="202">  │ │ ├── boom@0.4.2 </tspan>
+<tspan x="10" y="218">  │ │ ├── cryptiles@0.2.2 </tspan>
+<tspan x="10" y="234">  │ │ ├── hoek@0.9.1 </tspan>
+<tspan x="10" y="250">  │ │ └── sntp@0.2.4 </tspan>
+<tspan x="10" y="266">  │ ├─┬ http-signature@0.10.1 </tspan>
+<tspan x="10" y="282">  │ │ ├── asn1@0.1.11 </tspan>
+<tspan x="10" y="298">  │ │ ├── assert-plus@0.1.5 </tspan>
+<tspan x="10" y="314">  │ │ └── ctype@0.5.3 </tspan>
+<tspan x="10" y="330">  │ ├── json-stringify-safe@5.0.1 </tspan>
+<tspan x="10" y="346">  │ ├── mime@1.2.11 </tspan>
+<tspan x="10" y="362">  │ ├── node-uuid@1.4.8 </tspan>
+<tspan x="10" y="378">  │ ├── oauth-sign@0.3.0 </tspan>
+<tspan x="10" y="394">  │ ├── qs@0.6.6 </tspan>
+<tspan x="10" y="410">  │ ├─┬ tough-cookie@2.3.2 </tspan>
+<tspan x="10" y="426">  │ │ └── punycode@1.4.1 </tspan>
+<tspan x="10" y="442">  │ └── tunnel-agent@0.3.0 </tspan>
+<tspan x="10" y="458">  └─┬ w3cjs@0.1.25 </tspan>
+<tspan x="10" y="474">    ├── commander@2.0.0 </tspan>
+<tspan x="10" y="490">    ├─┬ superagent@0.15.7 </tspan>
+<tspan x="10" y="506">    │ ├── cookiejar@1.3.0 </tspan>
+<tspan x="10" y="522">    │ ├── debug@0.7.4 </tspan>
+<tspan x="10" y="538">    │ ├── emitter-component@1.0.0 </tspan>
+<tspan x="10" y="554">    │ ├── formidable@1.0.14 </tspan>
+<tspan x="10" y="570">    │ ├── methods@0.0.1 </tspan>
+<tspan x="10" y="586">    │ ├── mime@1.2.5 </tspan>
+<tspan x="10" y="602">    │ ├── qs@0.6.5 </tspan>
+<tspan x="10" y="618">    │ └── reduce-component@1.0.1 </tspan>
+<tspan x="10" y="634">    └─┬ superagent-proxy@0.2.0 </tspan>
+<tspan x="10" y="650">      └─┬ proxy-agent@0.0.2 </tspan>
+<tspan x="10" y="666">        ├─┬ http-proxy-agent@0.2.7 </tspan>
+<tspan x="10" y="682">        │ ├── agent-base@1.0.2 </tspan>
+<tspan x="10" y="698">        │ ├─┬ debug@2.6.3 </tspan>
+<tspan x="10" y="714">        │ │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="730">        │ └── extend@3.0.0 </tspan>
+<tspan x="10" y="746">        ├─┬ https-proxy-agent@0.3.6 </tspan>
+<tspan x="10" y="762">        │ └── debug@2.6.3 </tspan>
+<tspan x="10" y="778">        ├── lru-cache@2.3.1 </tspan>
+<tspan x="10" y="794">        └─┬ socks-proxy-agent@0.1.2 </tspan>
+<tspan x="10" y="810">          ├── extend@1.2.1 </tspan>
+<tspan x="10" y="826">          └─┬ rainbowsocks@0.1.3 </tspan>
+<tspan x="10" y="842">            └─┬ debug@2.2.0 </tspan>
+<tspan x="10" y="858">              └── ms@0.7.1</tspan>
+</text>
+</svg>
