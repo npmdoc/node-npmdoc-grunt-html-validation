@@ -1,9 +1,14 @@
-# api documentation for  [grunt-html-validation (v0.1.18)](https://github.com/praveenvijayan/grunt-html-validation)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-html-validation.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-html-validation) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-html-validation.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-html-validation)
+# npmdoc-grunt-html-validation
+
+#### api documentation for  [grunt-html-validation (v0.1.18)](https://github.com/praveenvijayan/grunt-html-validation)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-html-validation.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-html-validation) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-html-validation.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-html-validation)
+
 #### W3C html validation grunt plugin
 
-[![NPM](https://nodei.co/npm/grunt-html-validation.png?downloads=true)](https://www.npmjs.com/package/grunt-html-validation)
+[![NPM](https://nodei.co/npm/grunt-html-validation.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/grunt-html-validation)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-grunt-html-validation/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-grunt-html-validation_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-grunt-html-validation/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-grunt-html-validation/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-grunt-html-validation/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-grunt-html-validation/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-grunt-html-validation/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-grunt-html-validation/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +23,6 @@
 {
     "author": {
         "name": "praveenvijayan",
-        "email": "praveenv.vijayan@gmail.com",
         "url": "http://decodize.com"
     },
     "bugs": {
@@ -60,8 +64,7 @@
     ],
     "maintainers": [
         {
-            "name": "praveenvijayan",
-            "email": "praveenv.vijayan@gmail.com"
+            "name": "praveenvijayan"
         }
     ],
     "name": "grunt-html-validation",
@@ -69,7 +72,6 @@
     "peerDependencies": {
         "grunt": "~0.4.1"
     },
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/praveenvijayan/grunt-html-validation.git"
@@ -80,16 +82,6 @@
     "version": "0.1.18"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module grunt-html-validation](#apidoc.module.grunt-html-validation)
-
-
-
-# <a name="apidoc.module.grunt-html-validation"></a>[module grunt-html-validation](#apidoc.module.grunt-html-validation)
 
 
 
